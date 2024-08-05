@@ -1,0 +1,401 @@
+﻿access_id,customer_id,access_date,access_time,page_viewed,session_duration,browser_type,device_type,operating_system,referral_source,actions_taken
+1,1,3/22/2024,11:01 PM,About,135,Safari,Desktop,iOS,Search Engine,2
+2,2,7/22/2023,4:57 AM,Product Page,556,Firefox,Smartphone,Windows,Direct,null
+3,3,7/17/2022,1:50 PM,Checkout,355,Chrome,Desktop,MacOS,Search Engine,3
+4,4,2/11/2024,8:23 AM,Checkout,340,Chrome,Desktop,MacOS,Social Media,2
+5,5,11/12/2023,10:58 PM,Product Page,482,Safari,Desktop,MacOS,Direct,2
+6,6,5/26/2023,4:09 PM,Product Page,248,Edge,Desktop,MacOS,Email Campaign,3
+7,null,1/7/2023,12:24 PM,Product Page,357,Chrome,Desktop,iOS,Direct,1
+8,8,6/27/2022,5:14 AM,Home Page,71,Edge,Desktop,Windows,Email Campaign,3
+9,9,7/22/2022,3:50 AM,Checkout,376,Firefox,Tablet,MacOS,Social Media,3
+10,10,5/23/2022,12:48 AM,About,372,Chrome,Desktop,Windows,Direct,1
+11,11,8/17/2023,7:17 PM,Product Page,95,Safari,null,MacOS,Social Media,1
+12,12,3/7/2023,11:42 AM,Checkout,473,Firefox,Tablet,iOS,Email Campaign,2
+13,13,1/5/2024,4:41 AM,Home Page,374,Firefox,Desktop,Android,Email Campaign,1
+14,14,11/17/2023,5:55 PM,Checkout,273,Chrome,null,iOS,Social Media,2
+15,15,2/15/2023,9:17 PM,About,3,Edge,Desktop,Android,Social Media,1
+16,16,7/23/2023,2:44 AM,Home Page,345,Edge,Smartphone,Android,Search Engine,3
+17,17,8/13/2023,1:28 PM,About,594,Edge,Desktop,Windows,Search Engine,3
+18,18,4/30/2024,7:08 PM,null,536,Edge,Smartphone,MacOS,Email Campaign,2
+19,19,2/1/2024,3:29 AM,About,316,Edge,Smartphone,iOS,Social Media,1
+20,20,7/29/2023,2:27 AM,Home Page,230,Chrome,Tablet,iOS,Search Engine,2
+21,21,2/27/2024,4:50 AM,Home Page,334,Edge,Desktop,iOS,Search Engine,2
+22,22,10/3/2023,8:18 AM,Checkout,160,Edge,Smartphone,null,Search Engine,3
+23,23,5/13/2022,10:31 AM,Checkout,280,Edge,Tablet,iOS,Search Engine,2
+24,24,2/4/2023,4:17 AM,Home Page,195,Safari,Tablet,Windows,Social Media,3
+25,25,6/17/2023,1:04 PM,Checkout,531,Firefox,Tablet,Windows,Social Media,2
+26,26,3/6/2024,10:29 PM,Home Page,104,null,Tablet,Windows,Email Campaign,2
+27,27,8/13/2023,11:18 AM,Product Page,262,Firefox,Desktop,MacOS,Email Campaign,2
+28,28,2/18/2024,7:19 PM,Home Page,335,Chrome,Desktop,Windows,Direct,2
+29,29,2/26/2024,6:17 PM,Checkout,505,Safari,Tablet,MacOS,Search Engine,1
+30,30,7/8/2022,6:41 PM,Product Page,146,Chrome,Tablet,Windows,Direct,1
+31,31,11/28/2022,10:09 PM,Product Page,446,Safari,Desktop,Windows,Direct,2
+32,32,10/31/2022,4:33 AM,About,411,Edge,Desktop,Android,Search Engine,2
+33,33,10/11/2023,8:57 AM,About,573,Firefox,Smartphone,Android,Social Media,3
+34,34,3/2/2024,4:51 PM,Product Page,270,Edge,Smartphone,Windows,Direct,1
+35,35,7/2/2023,2:02 PM,About,84,Safari,Smartphone,Windows,Direct,1
+36,36,3/20/2024,3:20 PM,Checkout,577,Safari,Desktop,iOS,Search Engine,1
+37,37,1/17/2024,5:35 PM,Checkout,397,Firefox,Tablet,Android,Direct,2
+38,38,8/3/2022,7:39 AM,Checkout,71,Safari,Smartphone,iOS,Email Campaign,1
+39,39,3/4/2024,8:16 PM,Product Page,290,Chrome,Smartphone,iOS,Social Media,2
+40,40,5/13/2023,4:15 PM,Home Page,10,Edge,Desktop,Windows,Direct,2
+41,41,5/21/2023,8:14 PM,About,427,Chrome,Tablet,Android,Email Campaign,3
+42,42,4/12/2024,9:43 AM,Home Page,580,Chrome,Smartphone,Windows,Search Engine,1
+43,43,4/25/2024,12:47 AM,Checkout,560,Chrome,Tablet,MacOS,Email Campaign,2
+44,44,9/18/2022,5:25 PM,Home Page,280,Edge,Smartphone,MacOS,Direct,3
+45,45,5/7/2024,1:10 PM,About,79,Chrome,Tablet,iOS,Email Campaign,3
+46,46,8/11/2023,8:35 AM,Product Page,98,Safari,Desktop,MacOS,Search Engine,2
+47,47,10/15/2022,12:01 AM,Product Page,568,Safari,Desktop,iOS,Direct,2
+48,48,4/26/2024,7:51 PM,About,505,Chrome,Tablet,Android,Social Media,2
+49,49,1/2/2023,3:21 PM,Home Page,230,Edge,Smartphone,MacOS,Search Engine,3
+50,50,7/8/2022,3:39 PM,Checkout,199,Chrome,Tablet,Android,Direct,3
+51,51,8/1/2022,12:35 PM,Home Page,216,Safari,Smartphone,Windows,Email Campaign,3
+52,52,1/11/2024,1:06 PM,Product Page,199,Edge,Tablet,MacOS,Social Media,1
+53,53,5/8/2022,4:55 AM,About,31,Chrome,Smartphone,MacOS,Email Campaign,3
+54,54,4/9/2023,3:16 AM,About,398,Chrome,Tablet,MacOS,Social Media,2
+55,55,10/3/2023,4:35 PM,Checkout,591,Edge,Smartphone,Android,Search Engine,3
+56,56,1/4/2023,7:52 PM,Home Page,459,Chrome,Smartphone,Android,Email Campaign,2
+57,57,8/7/2023,4:23 PM,Home Page,539,Firefox,Tablet,Windows,Social Media,2
+58,58,4/2/2024,3:47 AM,Checkout,378,Firefox,Tablet,MacOS,Social Media,1
+59,59,6/1/2023,6:45 AM,About,578,Firefox,Smartphone,iOS,Social Media,1
+60,60,5/5/2022,8:32 AM,Product Page,136,Edge,Tablet,Windows,Direct,2
+61,61,3/8/2023,8:20 PM,Checkout,331,Safari,Smartphone,Android,Email Campaign,2
+62,62,9/23/2023,3:43 AM,Home Page,537,Safari,Desktop,iOS,Email Campaign,2
+63,63,11/24/2022,3:32 PM,Product Page,581,Chrome,Smartphone,Windows,Direct,3
+64,64,7/17/2023,5:05 PM,Checkout,84,Safari,Smartphone,MacOS,Search Engine,1
+65,65,3/1/2023,3:57 AM,Product Page,343,Firefox,Smartphone,Windows,Social Media,3
+66,66,10/8/2022,1:50 PM,Product Page,290,Safari,Tablet,MacOS,Social Media,1
+67,67,7/21/2023,11:20 PM,Checkout,212,Chrome,Tablet,iOS,Email Campaign,2
+68,68,11/5/2022,12:20 PM,Product Page,416,Firefox,Desktop,Android,Direct,1
+69,69,11/6/2023,8:07 AM,Product Page,257,Chrome,Smartphone,MacOS,Search Engine,2
+70,70,11/9/2023,5:27 AM,Home Page,338,Firefox,Tablet,MacOS,Email Campaign,2
+71,71,2/6/2023,12:33 PM,Checkout,166,Safari,Smartphone,MacOS,Email Campaign,2
+72,72,11/18/2023,11:56 PM,Checkout,425,Chrome,Tablet,Windows,Email Campaign,1
+73,73,4/28/2024,10:18 AM,Checkout,302,Firefox,Desktop,iOS,Search Engine,1
+74,74,9/8/2022,12:18 PM,Product Page,164,Chrome,Tablet,iOS,Search Engine,2
+75,75,6/3/2022,11:48 AM,Product Page,595,Firefox,Desktop,Android,Search Engine,1
+76,76,10/16/2022,4:39 AM,Home Page,172,Edge,Desktop,MacOS,Search Engine,3
+77,77,3/27/2024,10:32 AM,About,563,Chrome,Tablet,iOS,Email Campaign,2
+78,78,8/1/2023,8:32 AM,About,50,Chrome,Smartphone,Android,Social Media,2
+79,79,7/26/2023,10:22 PM,About,83,Edge,Desktop,Windows,Direct,3
+80,80,12/1/2022,5:37 PM,Product Page,262,Chrome,Smartphone,Windows,Email Campaign,3
+81,81,12/19/2022,10:16 PM,Checkout,270,Firefox,Tablet,Android,Social Media,2
+82,82,5/2/2023,10:25 AM,About,253,Chrome,Tablet,Windows,Social Media,2
+83,83,9/19/2022,10:33 AM,Home Page,302,Chrome,Desktop,MacOS,Social Media,3
+84,84,1/10/2023,1:21 AM,Checkout,301,Edge,Desktop,MacOS,Email Campaign,3
+85,85,12/22/2022,9:02 AM,Checkout,248,Edge,Tablet,Windows,Direct,3
+86,86,2/1/2023,5:20 PM,About,520,Edge,Tablet,MacOS,Search Engine,2
+87,87,2/15/2024,4:16 PM,About,121,Chrome,Desktop,Android,Social Media,1
+88,88,4/24/2023,1:04 AM,Home Page,249,Edge,Smartphone,Windows,Social Media,1
+89,89,5/11/2022,2:16 AM,Checkout,212,Chrome,Smartphone,MacOS,Search Engine,1
+90,90,9/14/2023,1:28 AM,Home Page,218,Chrome,Smartphone,iOS,Email Campaign,2
+91,91,6/11/2022,1:21 AM,Checkout,290,Edge,Tablet,Android,Search Engine,2
+92,92,8/17/2022,10:53 PM,Checkout,450,Firefox,Tablet,iOS,Direct,3
+93,93,2/14/2023,12:06 AM,Home Page,78,Edge,Smartphone,MacOS,Social Media,3
+94,94,11/30/2023,10:30 PM,About,580,Edge,Smartphone,Windows,Direct,3
+95,95,10/21/2022,3:16 PM,Product Page,174,Edge,Desktop,MacOS,Direct,2
+96,96,12/30/2023,6:29 AM,Home Page,139,Safari,Desktop,Windows,Social Media,2
+97,97,6/20/2023,4:25 PM,Checkout,547,Safari,Tablet,Android,Search Engine,1
+98,98,6/22/2022,6:14 PM,Product Page,125,Edge,Desktop,iOS,Search Engine,1
+99,99,10/10/2023,12:24 AM,Home Page,190,Firefox,Smartphone,Windows,Social Media,2
+100,100,9/27/2023,12:26 PM,Product Page,377,Chrome,Tablet,Windows,Social Media,3
+101,101,9/2/2023,2:53 PM,Checkout,153,Chrome,Smartphone,iOS,Social Media,3
+102,102,4/9/2023,10:04 AM,Product Page,464,Firefox,Smartphone,iOS,Direct,3
+103,103,9/12/2023,11:26 AM,Checkout,18,Safari,Desktop,Windows,Email Campaign,2
+104,104,8/2/2022,7:07 AM,Home Page,493,Safari,Desktop,MacOS,Search Engine,1
+105,105,3/17/2024,1:21 PM,Checkout,369,Edge,Smartphone,MacOS,Email Campaign,3
+106,106,1/29/2024,2:47 PM,Product Page,451,Chrome,Tablet,Android,Direct,1
+107,107,2/8/2024,4:47 PM,About,456,Edge,Smartphone,iOS,Direct,3
+108,108,12/11/2023,7:23 PM,Product Page,524,Chrome,Desktop,iOS,Social Media,3
+109,109,2/14/2023,8:08 AM,Product Page,420,Firefox,Smartphone,Windows,Direct,2
+110,110,12/30/2022,6:30 PM,About,275,Chrome,Desktop,Android,Search Engine,2
+111,111,3/4/2023,1:30 PM,Checkout,101,Chrome,Tablet,Windows,Social Media,3
+112,112,6/23/2022,7:59 AM,Home Page,238,Edge,Smartphone,Windows,Social Media,2
+113,113,10/20/2022,8:59 PM,Product Page,121,Chrome,Desktop,MacOS,Social Media,3
+114,114,5/5/2024,8:50 AM,About,107,Firefox,Smartphone,MacOS,Social Media,2
+115,115,1/31/2023,6:55 AM,Home Page,582,Chrome,Desktop,Windows,Email Campaign,1
+116,116,12/22/2022,3:23 AM,Checkout,99,Chrome,Desktop,iOS,Search Engine,3
+117,117,1/14/2023,12:29 AM,Product Page,135,Safari,Smartphone,iOS,Search Engine,1
+118,118,11/24/2022,1:13 PM,About,133,Chrome,Smartphone,Android,Direct,2
+119,119,4/23/2024,9:40 AM,Checkout,4,Edge,Desktop,iOS,Social Media,3
+120,120,3/5/2023,4:40 AM,About,565,Chrome,Tablet,MacOS,Direct,1
+121,121,12/17/2022,3:18 PM,Checkout,456,Safari,Smartphone,iOS,Direct,1
+122,122,4/18/2024,7:56 PM,Checkout,551,Safari,Tablet,Android,Search Engine,1
+123,123,10/6/2023,12:33 PM,Checkout,134,Firefox,Smartphone,Windows,Search Engine,3
+124,124,5/28/2022,4:24 AM,Product Page,356,Safari,Smartphone,Windows,Search Engine,1
+125,125,1/29/2023,4:55 PM,Checkout,91,Edge,Smartphone,iOS,Search Engine,2
+126,126,11/18/2022,3:57 PM,Home Page,595,Safari,Desktop,Android,Social Media,2
+127,127,4/2/2024,6:02 AM,Home Page,92,Chrome,Tablet,Windows,Search Engine,1
+128,128,9/4/2023,9:49 AM,Checkout,503,Firefox,Tablet,Android,Direct,2
+129,129,8/24/2023,8:36 AM,Home Page,505,Chrome,Desktop,MacOS,Email Campaign,2
+130,130,3/12/2023,5:10 PM,Home Page,93,Firefox,Desktop,Windows,Direct,1
+131,131,9/24/2022,9:13 PM,Checkout,570,Edge,Tablet,MacOS,Search Engine,2
+132,132,5/2/2024,11:20 AM,Home Page,575,Edge,Desktop,iOS,Social Media,2
+133,133,4/18/2023,9:50 PM,Checkout,369,Chrome,Desktop,iOS,Search Engine,1
+134,134,3/28/2023,6:21 AM,Checkout,267,Safari,Smartphone,iOS,Direct,3
+135,135,1/23/2023,7:55 AM,Product Page,97,Safari,Tablet,Android,Search Engine,2
+136,136,6/7/2022,10:25 PM,About,273,Chrome,Smartphone,MacOS,Email Campaign,2
+137,137,5/28/2022,8:08 PM,Checkout,195,Firefox,Smartphone,Windows,Search Engine,2
+138,138,10/31/2023,7:45 PM,Home Page,85,Edge,Smartphone,Windows,Search Engine,1
+139,139,2/27/2023,6:02 PM,Product Page,437,Firefox,Smartphone,Windows,Search Engine,1
+140,140,1/31/2024,1:37 PM,Home Page,299,Chrome,Desktop,Windows,Direct,2
+141,141,8/8/2022,11:43 AM,Home Page,412,Chrome,Desktop,Android,Search Engine,1
+142,142,11/26/2022,8:28 AM,Home Page,545,Edge,Desktop,MacOS,Direct,1
+143,143,6/2/2023,2:02 AM,About,314,Safari,Smartphone,Windows,Social Media,1
+144,144,9/29/2023,10:49 AM,Checkout,99,Safari,Smartphone,Windows,Direct,1
+145,145,5/19/2022,6:38 PM,Checkout,131,Safari,Desktop,Windows,Email Campaign,2
+146,146,12/1/2022,7:37 AM,Home Page,280,Chrome,Smartphone,Android,Direct,1
+147,147,10/2/2022,6:15 PM,Home Page,74,Firefox,Smartphone,iOS,Search Engine,3
+148,148,1/27/2024,12:56 PM,Checkout,374,Chrome,Desktop,iOS,Email Campaign,2
+149,149,5/8/2024,11:33 AM,Product Page,204,Edge,Smartphone,Android,Search Engine,3
+150,150,1/4/2024,5:04 PM,Product Page,34,Firefox,Tablet,MacOS,Social Media,1
+151,151,12/8/2022,9:06 AM,Product Page,373,Safari,Tablet,iOS,Email Campaign,3
+152,152,10/12/2023,7:06 AM,Product Page,14,Safari,Tablet,Android,Direct,3
+153,153,4/16/2023,7:22 AM,Product Page,436,Edge,Tablet,iOS,Direct,2
+154,154,12/3/2022,10:15 PM,Checkout,568,Edge,Desktop,MacOS,Direct,2
+155,155,1/27/2023,1:41 PM,Product Page,500,Edge,Tablet,Windows,Direct,1
+156,156,11/24/2022,3:39 AM,Product Page,521,Chrome,Desktop,Android,Email Campaign,2
+157,157,3/23/2024,7:01 PM,Checkout,99,Safari,Smartphone,Windows,Search Engine,2
+158,158,6/28/2022,3:41 PM,About,237,Firefox,Tablet,Windows,Search Engine,3
+159,159,2/24/2024,6:52 AM,Checkout,8,Edge,Desktop,MacOS,Direct,3
+160,160,4/22/2024,6:46 AM,About,13,Edge,Smartphone,iOS,Search Engine,1
+161,161,11/18/2023,5:31 PM,Checkout,35,Safari,Desktop,Windows,Direct,3
+162,162,5/28/2023,3:07 PM,Checkout,524,Firefox,Desktop,Windows,Direct,2
+163,163,5/21/2023,2:06 PM,Product Page,223,Safari,Desktop,MacOS,Social Media,3
+164,164,5/10/2023,2:47 PM,Checkout,496,Chrome,Desktop,MacOS,Direct,3
+165,165,3/2/2023,6:14 PM,About,155,Edge,Smartphone,MacOS,Direct,3
+166,166,6/20/2023,10:34 PM,Checkout,518,Firefox,Smartphone,Android,Email Campaign,2
+167,167,8/27/2023,6:48 AM,Checkout,502,Safari,Desktop,iOS,Email Campaign,3
+168,168,3/12/2023,9:37 AM,Home Page,440,Safari,Tablet,Android,Social Media,1
+169,169,12/16/2023,6:39 AM,Checkout,73,Chrome,Desktop,Android,Email Campaign,2
+170,170,5/5/2022,4:56 PM,Home Page,344,Edge,Smartphone,Windows,Social Media,2
+171,171,4/9/2023,11:06 AM,Checkout,567,Safari,Tablet,Android,Direct,3
+172,172,7/5/2022,7:30 AM,Checkout,578,Safari,Smartphone,iOS,Direct,2
+173,173,4/11/2023,2:33 PM,About,201,Safari,Desktop,MacOS,Social Media,1
+174,174,3/29/2023,1:26 PM,Product Page,401,Firefox,Desktop,Android,Email Campaign,3
+175,175,8/2/2023,10:25 PM,Home Page,39,Chrome,Tablet,Windows,Email Campaign,2
+176,176,11/6/2022,4:57 PM,Product Page,110,Chrome,Smartphone,iOS,Social Media,1
+177,177,10/20/2023,8:13 AM,Home Page,271,Chrome,Desktop,Windows,Email Campaign,2
+178,178,9/19/2022,5:54 PM,Checkout,190,Firefox,Smartphone,Android,Social Media,1
+179,179,7/18/2023,8:24 AM,Home Page,126,Edge,Desktop,iOS,Direct,3
+180,180,5/17/2022,3:55 AM,Checkout,332,Safari,Tablet,iOS,Social Media,2
+181,181,3/4/2023,5:23 PM,Home Page,391,Safari,Tablet,Windows,Direct,2
+182,182,12/23/2023,2:05 PM,Product Page,164,Safari,Tablet,iOS,Direct,2
+183,183,9/2/2022,12:40 AM,Home Page,334,Chrome,Tablet,Windows,Search Engine,2
+184,184,1/12/2023,10:07 AM,About,207,Chrome,Desktop,Android,Email Campaign,3
+185,185,5/7/2024,11:54 PM,Product Page,584,Firefox,Smartphone,iOS,Social Media,3
+186,186,11/30/2022,7:41 AM,Product Page,503,Edge,Smartphone,Windows,Direct,2
+187,187,10/21/2022,6:07 AM,Product Page,237,Edge,Desktop,Windows,Direct,2
+188,188,10/24/2022,11:11 AM,Checkout,505,Chrome,Tablet,iOS,Social Media,2
+189,189,7/3/2022,3:09 PM,Product Page,232,Chrome,Desktop,MacOS,Email Campaign,2
+190,190,2/19/2023,7:35 AM,About,238,Firefox,Tablet,MacOS,Search Engine,3
+191,191,11/25/2023,10:34 AM,Home Page,163,Safari,Desktop,Android,Search Engine,3
+192,192,4/23/2024,11:27 PM,Product Page,203,Chrome,Smartphone,Windows,Search Engine,2
+193,193,5/22/2022,10:27 PM,Home Page,362,Firefox,Desktop,Windows,Email Campaign,3
+194,194,12/16/2023,11:29 AM,About,536,Edge,Smartphone,iOS,Email Campaign,2
+195,195,7/11/2023,8:44 PM,About,531,Chrome,Smartphone,MacOS,Direct,3
+196,196,7/14/2023,1:19 AM,Home Page,178,Safari,Desktop,iOS,Search Engine,3
+197,197,11/13/2022,2:58 PM,Checkout,213,Safari,Smartphone,Windows,Direct,1
+198,198,9/23/2023,11:29 PM,Home Page,440,Chrome,Desktop,MacOS,Search Engine,2
+199,199,1/10/2023,12:38 AM,Checkout,272,Safari,Desktop,Windows,Social Media,1
+200,200,4/24/2023,4:46 PM,Product Page,59,Chrome,Tablet,iOS,Social Media,3
+201,201,2/6/2024,2:14 AM,About,596,Chrome,Tablet,MacOS,Search Engine,3
+202,202,1/29/2024,6:56 PM,Home Page,95,Edge,Tablet,Windows,Search Engine,2
+203,203,3/18/2024,6:32 PM,Home Page,500,Safari,Tablet,MacOS,Social Media,3
+204,204,11/23/2022,1:27 AM,Checkout,434,Edge,Desktop,Windows,Social Media,1
+205,205,5/8/2022,8:58 PM,Checkout,256,Chrome,Desktop,Windows,Social Media,1
+206,206,5/15/2023,11:35 AM,About,458,Chrome,Smartphone,Windows,Social Media,1
+207,207,4/21/2024,2:11 AM,About,277,Firefox,Desktop,MacOS,Email Campaign,3
+208,208,11/10/2022,11:06 PM,About,178,Chrome,Smartphone,Android,Email Campaign,2
+209,209,9/30/2023,1:10 PM,Checkout,251,Safari,Desktop,Android,Email Campaign,3
+210,210,12/30/2022,6:43 PM,Checkout,483,Edge,Smartphone,Windows,Social Media,2
+211,211,3/21/2023,7:42 PM,Product Page,534,Edge,Tablet,iOS,Social Media,1
+212,212,2/1/2023,12:15 AM,Product Page,436,Edge,Smartphone,Android,Direct,2
+213,213,1/13/2024,9:35 AM,About,260,Firefox,Smartphone,iOS,Email Campaign,2
+214,214,12/30/2022,12:26 AM,About,574,Safari,Desktop,iOS,Social Media,3
+215,215,6/20/2022,2:34 PM,About,275,Edge,Desktop,Windows,Social Media,3
+216,216,7/16/2022,9:50 AM,Product Page,46,Edge,Smartphone,MacOS,Email Campaign,1
+217,217,12/5/2022,6:37 PM,Home Page,0,Chrome,Desktop,MacOS,Email Campaign,3
+218,218,7/19/2022,9:59 AM,Home Page,55,Safari,Tablet,Android,Email Campaign,1
+219,219,10/17/2023,8:16 PM,Home Page,273,Firefox,Smartphone,MacOS,Email Campaign,2
+220,220,2/20/2024,9:18 AM,About,227,Chrome,Desktop,iOS,Email Campaign,1
+221,221,9/12/2023,1:25 PM,Product Page,273,Safari,Tablet,MacOS,Direct,2
+222,222,7/7/2023,8:33 AM,Home Page,105,Edge,Smartphone,Android,Email Campaign,1
+223,223,3/21/2023,2:46 PM,Product Page,212,Safari,Tablet,iOS,Search Engine,1
+224,224,10/27/2022,10:13 PM,Checkout,576,Safari,Tablet,Android,Direct,1
+225,225,5/13/2023,3:56 PM,Home Page,499,Firefox,Desktop,Windows,Direct,2
+226,226,2/2/2024,10:49 PM,Product Page,483,Safari,Smartphone,Android,Social Media,3
+227,227,12/22/2023,7:48 AM,Checkout,478,Chrome,Desktop,iOS,Social Media,3
+228,228,11/19/2022,3:33 AM,About,268,Safari,Desktop,Windows,Search Engine,3
+229,229,10/10/2023,3:06 PM,Checkout,129,Edge,Desktop,Windows,Direct,1
+230,230,6/16/2022,7:24 AM,About,337,Firefox,Smartphone,iOS,Social Media,2
+231,231,10/24/2022,9:24 PM,About,264,Safari,Desktop,iOS,Direct,2
+232,232,9/13/2022,3:09 PM,Home Page,77,Chrome,Desktop,MacOS,Social Media,1
+233,233,12/6/2023,9:17 AM,About,333,Safari,Desktop,MacOS,Email Campaign,2
+234,234,8/31/2022,4:41 PM,Checkout,457,Firefox,Desktop,Android,Email Campaign,1
+235,235,12/23/2023,8:27 PM,Home Page,103,Safari,Tablet,MacOS,Social Media,2
+236,236,4/15/2024,2:55 PM,Home Page,427,Safari,Smartphone,Android,Direct,3
+237,237,2/19/2023,12:38 PM,Checkout,118,Edge,Smartphone,Windows,Direct,3
+238,238,8/9/2022,1:09 PM,Home Page,41,Safari,Desktop,Windows,Email Campaign,1
+239,239,6/10/2022,11:43 AM,Checkout,74,Edge,Tablet,MacOS,Direct,2
+240,240,7/21/2022,4:09 PM,Product Page,540,Edge,Desktop,Windows,Search Engine,1
+241,241,10/24/2022,5:26 PM,Checkout,439,Chrome,Smartphone,iOS,Search Engine,2
+242,242,12/22/2023,7:59 PM,About,349,Edge,Smartphone,iOS,Search Engine,2
+243,243,12/5/2023,12:32 PM,Checkout,556,Safari,Smartphone,Android,Social Media,1
+244,244,3/22/2023,1:50 AM,Product Page,548,Firefox,Desktop,iOS,Email Campaign,3
+245,245,8/29/2023,9:08 AM,About,590,Firefox,Desktop,Android,Direct,2
+246,246,3/5/2023,10:56 AM,Product Page,506,Edge,Tablet,iOS,Email Campaign,1
+247,247,4/28/2023,2:38 PM,Home Page,27,Edge,Smartphone,MacOS,Social Media,3
+248,248,3/13/2024,7:56 PM,Home Page,423,Edge,Smartphone,iOS,Social Media,1
+249,249,9/17/2023,6:48 PM,Checkout,194,Firefox,Smartphone,MacOS,Search Engine,3
+250,250,8/11/2022,5:10 PM,Product Page,585,Edge,Smartphone,Android,Search Engine,3
+251,251,1/25/2023,5:40 PM,Product Page,316,Edge,Smartphone,Windows,Email Campaign,2
+252,252,11/28/2023,3:17 AM,Home Page,339,Firefox,Desktop,MacOS,Direct,2
+253,253,4/14/2024,8:51 PM,Home Page,192,Edge,Tablet,iOS,Direct,3
+254,254,10/6/2023,8:10 AM,Checkout,109,Firefox,Desktop,iOS,Social Media,2
+255,255,1/15/2024,3:10 AM,Product Page,447,Edge,Desktop,Windows,Social Media,2
+256,256,11/15/2022,1:23 PM,Checkout,331,Safari,Smartphone,Windows,Email Campaign,1
+257,257,6/27/2023,8:02 AM,About,375,Edge,Smartphone,Windows,Email Campaign,3
+258,258,11/4/2022,4:16 AM,Home Page,439,Chrome,Smartphone,Android,Search Engine,1
+259,259,2/8/2024,5:48 AM,Checkout,202,Firefox,Tablet,iOS,Search Engine,3
+260,260,12/31/2022,12:34 AM,Product Page,345,Edge,Tablet,Windows,Social Media,3
+261,261,6/26/2023,11:00 AM,Home Page,39,Chrome,Tablet,Android,Search Engine,3
+262,262,12/10/2022,10:55 PM,Product Page,428,Firefox,Tablet,Windows,Social Media,3
+263,263,10/21/2023,7:47 PM,Product Page,89,Safari,Desktop,Android,Email Campaign,2
+264,264,1/1/2024,11:49 PM,Home Page,319,Edge,Desktop,Android,Social Media,2
+265,265,3/15/2023,4:17 PM,Home Page,559,Chrome,Desktop,iOS,Direct,1
+266,266,5/31/2023,1:31 AM,About,143,Safari,Tablet,Windows,Email Campaign,2
+267,267,8/3/2022,9:04 AM,Checkout,311,Chrome,Desktop,Android,Direct,1
+268,268,11/2/2023,5:14 PM,Checkout,425,Safari,Smartphone,Windows,Search Engine,3
+269,269,4/23/2024,4:06 PM,Home Page,20,Safari,Smartphone,Windows,Social Media,2
+270,270,4/20/2024,4:45 PM,Checkout,291,Firefox,Smartphone,iOS,Search Engine,2
+271,271,11/27/2022,1:42 PM,Checkout,157,Chrome,Smartphone,iOS,Direct,2
+272,272,2/15/2023,12:28 PM,About,308,Safari,Desktop,Android,Social Media,1
+273,273,12/13/2022,5:58 PM,Product Page,557,Chrome,Smartphone,MacOS,Email Campaign,3
+274,274,8/14/2023,7:49 PM,Product Page,523,Edge,Desktop,iOS,Social Media,2
+275,275,7/30/2023,2:49 PM,Home Page,493,Edge,Desktop,Android,Email Campaign,1
+276,276,9/17/2023,6:21 AM,Checkout,473,Safari,Tablet,Android,Social Media,3
+277,277,4/3/2024,7:32 PM,About,540,Chrome,Desktop,Windows,Social Media,1
+278,278,2/17/2024,10:27 PM,Checkout,19,Safari,Desktop,Windows,Search Engine,2
+279,279,2/19/2024,7:18 PM,Product Page,410,Chrome,Tablet,Windows,Social Media,1
+280,280,7/24/2022,3:38 PM,About,195,Edge,Desktop,iOS,Search Engine,1
+281,281,12/9/2022,6:43 PM,Home Page,77,Safari,Desktop,iOS,Email Campaign,1
+282,282,7/6/2023,11:52 PM,Home Page,248,Chrome,Smartphone,Windows,Social Media,2
+283,283,1/5/2024,10:38 PM,Checkout,77,Firefox,Tablet,iOS,Social Media,2
+284,284,4/29/2023,8:14 AM,Home Page,536,Edge,Smartphone,MacOS,Search Engine,3
+285,285,10/10/2022,5:44 PM,Home Page,309,Edge,Smartphone,Windows,Direct,2
+286,286,6/30/2022,1:36 PM,About,373,Safari,Tablet,iOS,Search Engine,3
+287,287,10/28/2023,3:28 PM,About,81,Edge,Tablet,iOS,Email Campaign,2
+288,288,10/17/2022,7:58 PM,Checkout,404,Edge,Desktop,Windows,Email Campaign,3
+289,289,12/15/2023,4:49 AM,Checkout,244,Firefox,Tablet,MacOS,Search Engine,3
+290,290,7/11/2023,6:03 AM,Product Page,179,Safari,Desktop,iOS,Social Media,1
+291,291,9/6/2022,11:59 AM,Checkout,132,Safari,Desktop,Android,Direct,2
+292,292,11/7/2023,9:35 AM,About,280,Edge,Desktop,MacOS,Direct,2
+293,293,1/30/2023,10:47 PM,Product Page,284,Safari,Smartphone,MacOS,Direct,3
+294,294,12/10/2023,8:20 PM,About,305,Firefox,Smartphone,MacOS,Direct,3
+295,295,5/4/2024,2:50 AM,About,214,Safari,Desktop,Android,Search Engine,3
+296,296,5/6/2022,10:19 AM,Checkout,14,Edge,Smartphone,Windows,Email Campaign,3
+297,297,6/16/2023,7:40 AM,Home Page,339,Safari,Smartphone,MacOS,Direct,2
+298,298,5/1/2022,8:11 AM,Product Page,118,Safari,Tablet,iOS,Social Media,1
+299,299,2/14/2023,7:28 AM,About,66,Edge,Smartphone,Android,Direct,2
+300,300,6/9/2022,6:43 PM,Checkout,142,Chrome,Desktop,Windows,Direct,1
+301,301,12/18/2023,4:59 PM,Home Page,53,Chrome,Smartphone,iOS,Email Campaign,2
+302,302,5/3/2023,9:52 PM,Checkout,454,Firefox,Tablet,MacOS,Social Media,1
+303,303,10/15/2023,9:06 PM,Home Page,71,Firefox,Smartphone,Windows,Email Campaign,1
+304,304,1/19/2023,6:15 AM,Checkout,172,Firefox,Tablet,MacOS,Direct,3
+305,305,7/14/2022,5:33 PM,Product Page,462,Edge,Desktop,MacOS,Social Media,1
+306,306,1/15/2024,5:29 AM,Product Page,179,Firefox,Smartphone,Android,Email Campaign,2
+307,307,4/27/2023,11:57 PM,Product Page,210,Chrome,Tablet,Android,Email Campaign,1
+308,308,7/26/2023,2:25 PM,Product Page,442,Chrome,Smartphone,iOS,Email Campaign,2
+309,309,5/16/2022,10:07 AM,About,80,Firefox,Desktop,Android,Search Engine,2
+310,310,8/20/2022,10:28 PM,Checkout,200,Edge,Tablet,Windows,Direct,1
+311,311,2/2/2024,6:12 PM,Home Page,449,Edge,Tablet,MacOS,Email Campaign,1
+312,312,4/6/2024,7:18 PM,About,278,Firefox,Smartphone,Windows,Social Media,3
+313,313,6/18/2023,10:54 PM,About,34,Edge,Smartphone,Windows,Email Campaign,3
+314,314,2/6/2024,1:35 PM,Checkout,462,Edge,Desktop,Windows,Search Engine,3
+315,315,3/23/2024,11:23 AM,Home Page,160,Safari,Desktop,iOS,Direct,1
+316,316,4/10/2024,6:44 AM,Product Page,213,Firefox,Smartphone,Android,Search Engine,3
+317,317,5/25/2023,5:18 AM,About,39,Firefox,Smartphone,Windows,Search Engine,1
+318,318,12/31/2023,3:41 PM,About,586,Edge,Desktop,Android,Direct,2
+319,319,2/15/2024,7:04 PM,Product Page,264,Edge,Tablet,MacOS,Social Media,3
+320,320,6/14/2023,4:09 AM,Product Page,430,Edge,Desktop,iOS,Social Media,3
+321,321,2/19/2024,7:51 PM,Checkout,432,Chrome,Smartphone,Windows,Search Engine,2
+322,322,1/2/2023,2:39 AM,Home Page,368,Firefox,Smartphone,Windows,Search Engine,1
+323,323,10/25/2022,8:11 AM,Product Page,446,Safari,Tablet,MacOS,Social Media,1
+324,324,4/18/2023,3:42 PM,Product Page,398,Firefox,Smartphone,Android,Search Engine,1
+325,325,10/3/2023,5:23 PM,Home Page,448,Firefox,Smartphone,iOS,Email Campaign,3
+326,326,10/23/2022,1:53 PM,About,421,Safari,Smartphone,Android,Social Media,1
+327,327,11/12/2023,10:44 AM,Checkout,455,Firefox,Tablet,Android,Search Engine,1
+328,328,7/13/2022,4:47 AM,About,75,Safari,Tablet,MacOS,Email Campaign,1
+329,329,10/8/2023,1:07 AM,About,9,Safari,Desktop,Windows,Direct,3
+330,330,10/12/2022,7:43 PM,Home Page,315,Safari,Tablet,MacOS,Direct,2
+331,331,8/26/2022,3:51 AM,About,550,Edge,Tablet,Android,Email Campaign,1
+332,332,10/24/2023,7:39 PM,About,573,Safari,Tablet,iOS,Direct,2
+333,333,8/21/2022,8:48 AM,Home Page,210,Safari,Smartphone,MacOS,Search Engine,1
+334,334,11/13/2022,8:52 AM,Product Page,549,Chrome,Desktop,iOS,Search Engine,2
+335,335,2/11/2023,5:32 AM,About,576,Firefox,Desktop,iOS,Direct,2
+336,336,5/5/2024,5:17 PM,Product Page,227,Edge,Desktop,Windows,Direct,1
+337,337,4/23/2024,8:19 AM,Checkout,416,Edge,Smartphone,MacOS,Social Media,1
+338,338,8/13/2022,2:39 PM,About,101,Firefox,Tablet,MacOS,Email Campaign,1
+339,339,4/18/2024,9:17 PM,About,249,Safari,Tablet,Windows,Search Engine,3
+340,340,6/11/2022,8:45 AM,Checkout,434,Chrome,Tablet,Android,Search Engine,3
+341,341,8/11/2023,12:56 PM,Home Page,286,Chrome,Desktop,MacOS,Search Engine,3
+342,342,12/30/2022,5:25 AM,Product Page,27,Firefox,Smartphone,MacOS,Search Engine,3
+343,343,5/30/2022,7:28 AM,Home Page,252,Firefox,Tablet,iOS,Direct,1
+344,344,8/27/2022,9:47 AM,Checkout,42,Safari,Smartphone,iOS,Email Campaign,1
+345,345,5/23/2022,3:00 PM,About,573,Firefox,Smartphone,Windows,Email Campaign,1
+346,346,7/21/2023,1:11 PM,About,25,Chrome,Tablet,Android,Email Campaign,3
+347,347,8/31/2023,12:15 AM,About,326,Firefox,Smartphone,Windows,Social Media,2
+348,348,10/22/2023,6:00 AM,Product Page,190,Chrome,Tablet,Windows,Direct,1
+349,349,9/25/2022,9:21 PM,Checkout,465,Safari,Desktop,iOS,Direct,2
+350,350,5/17/2022,12:40 AM,About,17,Firefox,Desktop,Windows,Email Campaign,1
+351,351,8/2/2022,5:45 AM,Product Page,227,Chrome,Smartphone,iOS,Search Engine,3
+352,352,12/19/2022,9:16 AM,Checkout,1,Firefox,Smartphone,iOS,Direct,1
+353,353,7/18/2022,6:29 PM,Checkout,346,Chrome,Desktop,MacOS,Email Campaign,3
+354,354,5/2/2024,7:12 AM,Product Page,300,Safari,Smartphone,Windows,Social Media,3
+355,355,6/4/2022,6:38 AM,Home Page,53,Chrome,Smartphone,Android,Direct,1
+356,356,7/11/2023,6:40 PM,About,290,Edge,Desktop,Windows,Search Engine,2
+357,357,5/1/2023,12:35 AM,Home Page,548,Chrome,Smartphone,MacOS,Email Campaign,3
+358,358,11/30/2023,12:58 AM,Home Page,239,Chrome,Desktop,MacOS,Search Engine,1
+359,359,9/28/2022,1:49 AM,Product Page,166,Safari,Desktop,Windows,Email Campaign,1
+360,360,5/28/2022,7:45 PM,Home Page,126,Safari,Desktop,Windows,Email Campaign,2
+361,361,2/4/2023,9:19 AM,About,195,Firefox,Smartphone,iOS,Search Engine,2
+362,362,7/3/2023,8:33 PM,Home Page,583,Safari,Desktop,MacOS,Email Campaign,1
+363,363,6/13/2023,12:27 AM,Checkout,324,Edge,Desktop,iOS,Email Campaign,1
+364,364,8/13/2023,1:49 AM,Home Page,534,Chrome,Smartphone,Android,Search Engine,3
+365,365,5/7/2023,11:41 AM,Checkout,163,Chrome,Tablet,Android,Search Engine,3
+366,366,3/22/2024,10:19 PM,About,324,Edge,Tablet,Windows,Email Campaign,3
+367,367,2/14/2024,9:28 PM,About,467,Chrome,Tablet,Windows,Direct,1
+368,368,9/28/2022,8:34 PM,Checkout,29,Edge,Desktop,iOS,Email Campaign,3
+369,369,1/4/2024,11:17 AM,Product Page,251,Firefox,Smartphone,iOS,Email Campaign,1
+370,370,6/13/2022,9:10 PM,About,435,Safari,Desktop,Android,Email Campaign,3
+371,371,8/10/2023,8:02 PM,About,48,Firefox,Desktop,MacOS,Direct,2
+372,372,6/4/2023,6:31 PM,Product Page,397,Firefox,Tablet,iOS,Direct,1
+373,373,9/17/2023,6:24 PM,Checkout,327,Edge,Tablet,MacOS,Email Campaign,1
+374,374,11/30/2022,4:11 PM,About,471,Chrome,Tablet,Android,Social Media,2
+375,375,4/25/2024,1:32 PM,Product Page,543,Edge,Tablet,Windows,Direct,1
+376,376,9/25/2022,1:13 PM,About,401,Firefox,Desktop,MacOS,Social Media,1
+377,377,5/9/2023,9:14 PM,About,485,Safari,Smartphone,iOS,Social Media,2
+378,378,6/15/2022,6:31 AM,Product Page,436,Firefox,Tablet,MacOS,Email Campaign,1
+379,379,3/20/2024,11:52 PM,About,546,Firefox,Smartphone,Windows,Direct,1
+380,380,3/31/2023,6:09 AM,About,539,Safari,Smartphone,MacOS,Email Campaign,2
+381,381,8/26/2023,7:22 AM,Home Page,1,Safari,Desktop,iOS,Search Engine,1
+382,382,1/29/2024,8:15 AM,About,476,Chrome,Tablet,Android,Direct,1
+383,383,2/15/2024,7:22 AM,Checkout,163,Firefox,Desktop,Android,Direct,3
+384,384,5/7/2022,8:35 AM,About,242,Chrome,Tablet,Windows,Search Engine,3
+385,385,6/2/2023,11:37 PM,About,266,Firefox,Tablet,iOS,Email Campaign,2
+386,386,1/4/2023,7:07 AM,Product Page,435,Firefox,Desktop,iOS,Direct,2
+387,387,9/13/2023,8:53 PM,About,331,Safari,Tablet,Android,Direct,2
+388,388,2/29/2024,7:27 PM,Product Page,300,Edge,Desktop,Android,Email Campaign,1
+389,389,3/3/2023,7:49 PM,Home Page,530,Edge,Smartphone,Windows,Email Campaign,2
+390,390,4/22/2023,1:39 AM,About,291,Firefox,Tablet,Windows,Social Media,2
+391,391,3/3/2023,10:54 AM,Home Page,193,Edge,Desktop,MacOS,Email Campaign,1
+392,392,9/5/2023,12:34 AM,Checkout,73,Safari,Desktop,iOS,Direct,3
+393,393,8/10/2022,6:17 AM,Checkout,408,Chrome,Smartphone,MacOS,Email Campaign,2
+394,394,2/26/2023,3:29 PM,About,32,Chrome,Tablet,Android,Social Media,3
+395,395,11/20/2022,2:09 AM,About,434,Safari,Smartphone,iOS,Search Engine,2
+396,396,12/27/2023,3:58 AM,About,188,Edge,Tablet,MacOS,Direct,2
+397,397,12/29/2022,1:09 PM,Checkout,430,Chrome,Tablet,Windows,Search Engine,3
+398,398,6/11/2023,1:19 PM,Product Page,292,Safari,Desktop,MacOS,Search Engine,3
+399,399,12/13/2023,9:46 PM,About,9,Firefox,Desktop,iOS,Email Campaign,1
+400,400,8/24/2023,4:19 PM,Checkout,164,Firefox,Tablet,Android,Search Engine,3
